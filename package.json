@@ -16,5 +16,8 @@
     "http-proxy-middleware": "^3.0.3",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "redoc-cli": "^0.13.21"
   }
 }
