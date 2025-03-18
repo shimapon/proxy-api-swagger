@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "codegen:html": "redoc-cli bundle openapi.yml --output dist/index.html"
+    "codegen:html": "redoc-cli bundle openapi.yaml --output dist/index.html"
   },
   "keywords": [],
   "author": "",
